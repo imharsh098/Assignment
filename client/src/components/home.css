@@ -1,0 +1,41 @@
+.navbar {
+  position: fixed;
+  top: 0;
+  right: 10px;
+}
+
+table {
+  border: 2px solid black;
+  margin: 5rem auto;
+  width: 80%;
+  padding: 2rem;
+}
+table tr {
+  font-size: 20px;
+}
+th {
+  border: 2px solid black;
+  border-radius: 20px;
+}
+td {
+  text-align: center;
+  border: 2px solid black;
+  border-radius: 10px;
+}
+.logout {
+  border-radius: 10px;
+  font-weight: 800;
+  padding: 10px;
+}
+.upgrade {
+  border-radius: 10px;
+  padding: 5px;
+  width: 100%;
+  font-weight: bold;
+}
+.tdd {
+  width: 200px;
+}
+.plan {
+  font-weight: bold;
+}
